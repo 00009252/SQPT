@@ -18,10 +18,14 @@ Click on the Create User button.
 Fill in the necessary fields such as First Name, Last Name, Email, Password, etc.
 Click on the Save or Submit button.
 Verify that the user is created successfully and added to the list of users.
+
+
 Read User
 Open the User Management System.
 Search for the user created in step 1.
 Verify that the user details such as First Name, Last Name, Email, etc. are displayed correctly.
+
+
 Update User
 Open the User Management System.
 Search for the user created in step 1.
@@ -29,6 +33,9 @@ Click on the Edit or Update button.
 Update the necessary fields such as Email or Password.
 Click on the Save or Submit button.
 Verify that the user details are updated successfully.
+
+
+
 Delete User
 Open the User Management System.
 Search for the user created in step 1.
